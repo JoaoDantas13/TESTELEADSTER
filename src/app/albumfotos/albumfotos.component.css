@@ -1,0 +1,11 @@
+*{
+  background-color: #007bff;
+}
+
+
+h1,th,td{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+

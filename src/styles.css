@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+
+html{
+  background-color: #007bff;
+}
+
+
+*{
+  font-family: 'Roboto', sans-serif;
+  padding: 0;
+  box-sizing: 0;
+  margin: 0;
+}
